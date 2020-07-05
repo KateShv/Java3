@@ -1,0 +1,32 @@
+июл 05, 2020 1:45:04 PM core.ChatServer onServerStart
+SEVERE: Server thread started
+июл 05, 2020 1:45:05 PM core.ChatServer onServerSocketCreated
+SEVERE: Server socket created
+июл 05, 2020 1:45:13 PM core.ChatServer onSocketAccepted
+SEVERE: Client connected
+июл 05, 2020 1:45:13 PM core.ChatServer onSocketStart
+SEVERE: Socket created
+июл 05, 2020 1:45:13 PM core.ChatServer onSocketReady
+SEVERE: Socket ready
+июл 05, 2020 1:45:13 PM core.ChatServer onReceiveString
+INFO: Receive msg: /auth_request±***±***
+июл 05, 2020 1:45:13 PM core.ChatServer onSocketStop
+SEVERE: Socket stop
+июл 05, 2020 1:45:36 PM core.ChatServer onSocketAccepted
+SEVERE: Client connected
+июл 05, 2020 1:45:36 PM core.ChatServer onSocketStart
+SEVERE: Socket created
+июл 05, 2020 1:45:36 PM core.ChatServer onSocketReady
+SEVERE: Socket ready
+июл 05, 2020 1:45:36 PM core.ChatServer onReceiveString
+INFO: Receive msg: /auth_request±Siatria_Kate±123
+июл 05, 2020 1:45:47 PM core.ChatServer onReceiveString
+INFO: Receive msg: /client_msg±hi all
+июл 05, 2020 1:45:52 PM core.ChatServer onReceiveString
+INFO: Receive msg: /client_msg±how are you
+июл 05, 2020 1:46:00 PM core.ChatServer onReceiveString
+INFO: Receive msg: /client_msg±:)
+июл 05, 2020 1:46:03 PM core.ChatServer onSocketStop
+SEVERE: Socket stop
+июл 05, 2020 1:46:14 PM core.ChatServer onServerStop
+SEVERE: Server thread stopped
